@@ -1,0 +1,6 @@
+{
+    "name": "nemo/captcha",
+    "description": "Captcha lib",
+    "type": "library",
+    "license": "MIT"    
+}
