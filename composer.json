@@ -1,0 +1,8 @@
+{
+    "name": "nemo/kcaptcha",
+    "description": "Captcha lib",
+    "type": "library",
+    "license": "MIT",
+    "require": {},
+    "require-dev": {},    
+}
